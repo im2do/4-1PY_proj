@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+# 선택(정확도/통합 향상):
+langdetect>=1.0.9
+nltk>=3.8
