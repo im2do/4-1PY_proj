@@ -56,7 +56,6 @@ TITLE_STOP |= set("rumi mira zoey jinu sajaboys saja".split())
 
 ## 4. (나중에) 워드클라우드
 `data/tokens_all.txt` 또는 `data/word_freq.csv` 를 입력으로 쓰면 됩니다.
-워드클라우드는 요청대로 이번 단계에서는 만들지 않았습니다.
 
 ---
 
